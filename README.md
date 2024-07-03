@@ -23,7 +23,7 @@ wget https://raw.githubusercontent.com/Mrz051/vip2/master/update.sh && chmod +x 
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
-- Xray Core by [@Mrzstore](https://github.com/Mrz051)
+- Xray Core by [@ZenitsuStore](https://github.com/Mrz051)
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
