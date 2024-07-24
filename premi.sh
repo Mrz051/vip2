@@ -27,8 +27,8 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "  Welcome To SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green} PEYXMRZ ® ${NC}${YELLOW}(${NC} ${green} PEYXMRZ ${NC}${YELLOW})${NC}"
-echo -e " © Recode By My Self PEYXMRZ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "  Auther : ${green} PEYX ® ${NC}${YELLOW}(${NC} ${green} ZNTUNNEL ${NC}${YELLOW})${NC}"
+echo -e " © Recode By My Self PEYX ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
@@ -266,10 +266,10 @@ TEXT="
 💥 » <code>Owner    :</code><code>$username</code>
 💥 » <code>Domain   :</code><code>$domain</code>
 💥 » <code>IPVPS    :</code><code>$IP</code>
-💥 » <code>ISP      :</code><code>$ISP</code>
-💥 » <code>OS      :</code><code>$MODEL</code>
-💥 » <code>COUNTRY    :</code><code>$CITY</code>
-💥 » <code>EXP SC  :</code><code>$masaaktif</code>
+💥 » <code>ISP      :</code><code>${ISP}</code>
+💥 » <code>OS      :</code><code>${MODEL}</code>
+💥 » <code>COUNTRY    :</code><code>${CITY}</code>
+💥 » <code>EXP SC  :</code><code>${masaaktif} Hari</code>
 <code>────────────────────</code>
 <b> SCRIPT NOTIF </b>
 <code>────────────────────</code>
