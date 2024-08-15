@@ -1,4 +1,4 @@
-<h2 align="center">𝗔𝗨𝗧𝗢 𝗦𝗖𝗥𝗜𝗣𝗧  𝗧𝗨𝗡𝗡𝗘𝗟𝗜𝗡𝗚
+<h2 align="center">𝗔𝗨𝗧𝗢𝗦𝗖𝗥𝗜𝗣𝗧 𝗧𝗨𝗡𝗡𝗘𝗟𝗜𝗡𝗚
 </h2>
 <p align="center">
 <a href="#"><img title=">
