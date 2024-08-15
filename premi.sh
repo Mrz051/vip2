@@ -266,8 +266,8 @@ TEXT="
 💥 » <code>Owner    :</code><code>$username</code>
 💥 » <code>Domain   :</code><code>$domain</code>
 💥 » <code>IPVPS    :</code><code>$IP</code>
-💥 » <code>ISP      :</code><code>${</code>
-💥 » <code>OS       :</code><code>DigitalOcean, LLC</code>
+💥 » <code>ISP      :</code><code>DigitalOcean, LLC{</code>
+💥 » <code>OS       :</code><code>Ubuntu 20.04.6 LTS </code>
 💥 » <code>COUNTRY  :</code><code>Singapore</code>
 💥 » <code>EXP SC   :</code><code>30 Hari</code>
 <code>────────────────────</code>
