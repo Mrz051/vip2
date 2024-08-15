@@ -268,13 +268,13 @@ TEXT="
 💥 » <code>IPVPS    :</code><code>$IP</code>
 💥 » <code>ISP      :</code><code>${</code>
 💥 » <code>OS       :</code><code>DigitalOcean, LLC</code>
-💥 » <code>COUNTRY  :</code><code>SINGAPORE</code>
+💥 » <code>COUNTRY  :</code><code>Singapore</code>
 💥 » <code>EXP SC   :</code><code>30 Hari</code>
 <code>────────────────────</code>
 <b> SCRIPT NOTIF </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/6283151636921"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/6287744622208"}]]}'
 curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 clear
