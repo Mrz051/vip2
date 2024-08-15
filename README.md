@@ -1,6 +1,11 @@
-- 𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹 
-
-- 👋 𝑯𝒊 𝑰'𝒂𝒎 𝑷𝒆𝒚𝒙
+<p align="center">
+<a href="#"><img title=">
+𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹 
+" src="https://img.shields.io/badge/ABOUT ME-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a
+<p align="center">
+<a href="#"><img title=">
+𝑯𝒊 𝑰'𝒂𝒎 𝑷𝒆𝒚𝒙 
+" src="https://img.shields.io/badge/ABOUT ME-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 
 ### INSTALL SCRIPT 
 ```
