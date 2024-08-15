@@ -1,8 +1,9 @@
+<p align="center"><b><font><h1></h1></font></b>𝗔𝗨𝗧𝗢 𝗦𝗖𝗥𝗜𝗣𝗧 𝗧𝗨𝗡𝗡𝗘𝗟𝗜𝗡𝗚
+
 <p align="center">
 <a href="#"><img title=">
 𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹 
-" src="https://img.shields.io/badge/𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a
-<img src="https://img.shields.io/static/v1?label=language&message=Bourne+Again+Shell&color=green&logo=nano">
+" src="https://img.shields.io/badge/𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 
 ### INSTALL SCRIPT 
 ```
