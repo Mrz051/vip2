@@ -261,15 +261,15 @@ EXPSC=$(curl -sS https://raw.githubusercontent.com/Mrz051/vip2/master/izin | gre
 TIMEZONE=$(printf '%(%H:%M:%S)T')
 TEXT="
 <code>────────────────────</code>
-<b>    💥AUTOSCRIPT PREMIUM💥</b>
+<b>  💥AUTOSCRIPT PREMIUM💥</b>
 <code>────────────────────</code>
 💥 » <code>Owner    :</code><code>$username</code>
 💥 » <code>Domain   :</code><code>$domain</code>
 💥 » <code>IPVPS    :</code><code>$IP</code>
-💥 » <code>ISP      :</code><code>${ISP}</code>
-💥 » <code>OS      :</code><code>${MODEL}</code>
-💥 » <code>COUNTRY    :</code><code>${CITY}</code>
-💥 » <code>EXP SC  :</code><code>${masaaktif} Hari</code>
+💥 » <code>ISP      :</code><code>${</code>
+💥 » <code>OS       :</code><code>DigitalOcean, LLC</code>
+💥 » <code>COUNTRY  :</code><code>SINGAPORE</code>
+💥 » <code>EXP SC   :</code><code>30 Hari</code>
 <code>────────────────────</code>
 <b> SCRIPT NOTIF </b>
 <code>────────────────────</code>
