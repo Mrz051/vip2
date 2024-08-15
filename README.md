@@ -5,8 +5,7 @@
 <p align="center">
 <a href="#"><img title=">
 𝐅𝐄𝐑𝐃𝐈𝐀𝐍𝐒𝐘𝐀𝐇 
-" src="https://img.shields.io/badge/>
-𝐅𝐄𝐑𝐃𝐈𝐀𝐍𝐒𝐘𝐀𝐇-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+" src="https://img.shields.io/badge/>𝐅𝐄𝐑𝐃𝐈𝐀𝐍𝐒𝐘𝐀𝐇-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 
 ### INSTALL SCRIPT 
 ```
