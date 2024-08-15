@@ -2,10 +2,7 @@
 <a href="#"><img title=">
 𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹 
 " src="https://img.shields.io/badge/𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕄𝕐 𝔾𝕀𝕋ℍ𝕌𝔹-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a
-<p align="center">
-<a href="#"><img title=">
-𝐅𝐄𝐑𝐃𝐈𝐀𝐍𝐒𝐘𝐀𝐇 
-" src="https://img.shields.io/badge/𝐅𝐄𝐑𝐃𝐈𝐀𝐍𝐒𝐘𝐀𝐇-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=language&message=Bourne+Again+Shell&color=green&logo=nano">
 
 ### INSTALL SCRIPT 
 ```
