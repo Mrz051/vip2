@@ -16,8 +16,8 @@ NC='\e[0m'
 red='\e[1;31m'
 green='\e[0;32m'
 TIMES="10"
-CHATID="6011254481"
-KEY="7318765669:AAGBgdao2Bcj_GNZJ_z1yDkTZYeudYkIHLk"
+CHATID="6545570021"
+KEY="6836513764:AAFXdZsive2uXdjSp3f7qvNeRMTWQP6je-k"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
 export IP=$( curl -sS icanhazip.com )
@@ -432,7 +432,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service Limit Quota"
-wget raw.githubusercontent.com/arsy14x/vip/master/limit/limit.sh && chmod +x limit.sh && ./limit.sh
+wget raw.githubusercontent.com/Mrz051/vip2/master/limit/limit.sh && chmod +x limit.sh && ./limit.sh
 cd
 wget -q -O /usr/bin/limit-ip "${REPO}limit/limit-ip"
 chmod +x /usr/bin/*
