@@ -68,7 +68,7 @@ wget https://raw.githubusercontent.com/Mrz051/vip2/master/update.sh && chmod +x 
 <a href="https://github.com/Mrz051"><img title="Author" src="https://img.shields.io/badge/AUTHOR-PEYX-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://t.me/Peyyx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
+<a href="https://t.me/peyyx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
 </p>
 <p align="center">
 <a href="https://wa.me/6287744622208" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a>
