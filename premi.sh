@@ -17,7 +17,7 @@ red='\e[1;31m'
 green='\e[0;32m'
 TIMES="10"
 CHATID="7661292905"
-KEY="7571142007:AAGC7Gs0M6OXgrZivkKsyCc9M8Uv55Acfnc"
+KEY="7512336307:AAEyS9zVvbTp9rvV9Z_3pkLMz9LMTQotiXw"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
 export IP=$( curl -sS icanhazip.com )
